@@ -1,4 +1,5 @@
-# 本文不考虑其他情况 一切以个人需求出发
+# chromebook 在国内的使用
+## 本文不考虑其他情况 一切以个人需求出发
 ```
 设备：  Chromebook Thinkpad 13
 版本号：63.0.3239.7 dev
@@ -6,7 +7,7 @@
 如果本篇文章能够帮助到你们，麻烦请点个start
 
 ## 激活 初始化
-因为寝室路由器的能直接接入万维网，那么激活 chromebook 只要连上 wifi 就可以，登陆好个人的 google 账号，google 会自动同步你所有的记录，当然如果你嫌 chromebook 安装的应用会影响到 pc 或 mac 端的使用，那么只要在设置同步里自行调整即可。
+因为寝室路由器的能直接接入万维网，那么激活 chromebook 只要连上 wifi 就可以，登陆好个人的 google 账号，google 会自动同步你所有的记录，当然如果你嫌 chromebook 安装的应用会影响到 pc 或 mac 端的使用，那么只要在设置同步里自行调整即可。（找了半天的.pac文件没找到比较尴尬，希望大家激活的时候都有好法子）
 
 ## 进入开发者模式
 同时按下 esc + 刷新键(tp13 在第四个键) + 电源键即可，都是在最上面那一排。
@@ -132,7 +133,6 @@ sudo apt-get install flatabulous-theme -y
 sudo apt-get install ultra-flat-icons -y
 sudo apt-get install vpnc git -y
 ```
-![desktop](./desktop.jpg)
 之后安装的东西因人而异把，我会用 chrome vscode。。。。
 
 ## 删除 ubuntu
@@ -142,4 +142,7 @@ sudo delete-chroot chrootname
 *chrootname: 所安装 ubuntu 的版本代号
 
 ## 小生不才，一家之言，将就将就。
-问：点个start可否
+说说体验把，在 chromeos 里的 ssr 可以在 ubuntu 实现爬墙，很粗暴，可以玩玩虚荣，用鼠标键盘的体验相当不错，如果你喜欢炉石那就更加完美了。
+
+个人使用 thinkkpad 13 虽说没有小红点体验很不好，但是基于 chromeos 本子不厚、不重、续航也不错，是一款相当不错的本子，虽说分辨率低了点，最近的嵌入式实验课刚好可以使用，马马虎虎对于没有经济独立的爱折腾人群来说相当不错了，而且我的这 cb 是以 500 大洋低价收来的，真的是物有所值。最后送上一张图。
+![](http://ove2oliz4.bkt.clouddn.com/17-10-24/97519394.jpg)

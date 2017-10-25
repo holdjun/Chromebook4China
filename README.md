@@ -61,7 +61,11 @@ sudo startunity
 
 从 C 到 U：shift + ctrl + alt + 前进键
 从 U 到 C：shift + ctrl + alt + 后退键
+
+sudo enter-chroot     不开启桌面在 Chromebook os 里使用 Ubuntu 的终端。
 ```
+![通过 chrome 使用 Ubuntu 的终端](https://cdn.sspai.com/2017/10/25/ef596797a5aaeb85a20c426dc84bbee9.png)
+
 
 ## ubuntu 开发配置
 其实一台低配的 Chromebook 装完 ubuntu 是有点吃力的，但是就是想折腾折腾。

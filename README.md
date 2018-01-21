@@ -11,8 +11,10 @@
 - 然后在 Chromebook 上连上和 windows 同一局域网的 wifi
 - 然后在 Chromebook 的网络设置中填入自动配置代理“http://windows电脑IP地址:SS代理端口/pac” 
   比如 http://192.168.199.143:1080/pac 
-
-<img src="http://ove2oliz4.bkt.clouddn.com/18-1-21/43528189.jpg" width="500" height="500" alt="pac" align=center/>
+  
+<p align="center">
+  <img src="http://ove2oliz4.bkt.clouddn.com/18-1-21/43528189.jpg" width="700" height="500" alt="pac"/>
+</p>
 
 # 在 Chromebook 上使用 google play
 不同设备支持 google play 的时间是不同的，有需求的同学可以参考 [Chrome OS Systems Supporting Android Apps](https://www.chromium.org/chromium-os/chrome-os-systems-supporting-android-apps)
@@ -40,10 +42,13 @@ Search+Shift+P = Toggle touchpad off/on
 Search+Shift+T = Toggle touchscreen off/on
 ```
 使用 **Smart Lock** 可以使用手机来解锁，beta版存在不稳定性
-<img src="http://ove2oliz4.bkt.clouddn.com/18-1-21/10777512.jpg" width="300" height="300" align=center/>
-<img src="http://ove2oliz4.bkt.clouddn.com/18-1-21/13101252.jpg" width="300" height="300" align=center/>
-<img src="http://ove2oliz4.bkt.clouddn.com/18-1-21/41777477.jpg" width="300" height="300" align=center/>
 
+<p align="center">
+  <img src="http://ove2oliz4.bkt.clouddn.com/18-1-21/10777512.jpg" width="430" height="350"/><img src="http://ove2oliz4.bkt.clouddn.com/18-1-21/13101252.jpg" width="430" height="350"/>
+</p>
+<p align="center">
+  <img src="http://ove2oliz4.bkt.clouddn.com/18-1-21/41777477.jpg" width="300" height="400"/>
+</p>
 
 # crouton
 
@@ -171,6 +176,9 @@ xiwi -T code -f . //如果安装成功，可以直接执行这段命令
 三星的 Chromebook plus 体验比 tp 要给力很多，但是三星在品控上还需要加强一点，arm 的处理器有点鸡肋，Chromebook pro 应该蛮不错的，但是**价格**也有点虚高。
 
 也可以看看 Medium 上别人的分享
-[Switching from a Mac to a Chromebook (as a web developer)](https://medium.com/@nshki_/switching-from-a-mac-to-a-chromebook-as-a-web-developer-761450c05a5a)
-[Owning a Chromebook](https://hackernoon.com/owning-a-chromebook-6a364c87d830)
-![](http://ove2oliz4.bkt.clouddn.com/18-1-21/58045050.jpg)
+
+- [Switching from a Mac to a Chromebook (as a web developer)](https://medium.com/@nshki_/switching-from-a-mac-to-a-chromebook-as-a-web-developer-761450c05a5a)
+
+- [Owning a Chromebook](https://hackernoon.com/owning-a-chromebook-6a364c87d830)
+
+![](http://ove2oliz4.bkt.clouddn.com/18-1-21/51670342.jpg)
